@@ -54,41 +54,41 @@ A passionate student from the 42 school, I've completed the core curriculum and 
 
 🚀 Key Skills:
 
-Low-level programming in C / C++
-Algorithmic problem-solving
-Unix Systems
-Basic networking concepts
-Collaborative work (peer-to-peer learning)
-Frontend: React / CSS & HTML
-Backend: NestJS / NodeJS
-Full stack: Typescript / JS
+    Low-level programming in C / C++
+    Algorithmic problem-solving
+    Unix Systems
+    Basic networking concepts
+    Collaborative work (peer-to-peer learning)
+    Frontend: React / CSS & HTML
+    Backend: NestJS / NodeJS
+    Full stack: Typescript / JS
 
 📁 42 Projects:
 
-Libft - The first C function library that students build from scratch. C
-Get_Next_Line - A function to read lines from a file descriptor. C
-Ft_printf - A simplified rewrite of the printf function. C
-Netwhat - Introduction to networks, protocols, and how they operate.
-So_long - This project is a small 2D game with minilibx. You will learn about textures, sprites, and tiles. C
-Pipex - This project aims to deepen understanding of two concepts: redirections and pipes. C
-Push_swap - This project involves sorting data on a stack, with a limited set of instructions, and the fewest moves. To achieve this, you'll need to manipulate various sorting algorithms and select the most suitable solution(s) for optimized data sorting.
-Cub3D - A graphical project based on the Wolfenstein 3D game, using the miniLibX library. C
-minishell - Building a simplified shell. C
-Philosophers - A multithreading project focused on the classic dining philosophers problem. C
-CPP Modules (00-08) - An introduction to programming in C++.
-Ft_containers - Rewrite of the C++ Standard Template Library (STL) containers. C++
-Ft_Irc - Create your own IRC server in C++, fully compatible with an official client. C++
-Inception - This project aims to broaden knowledge in system administration using Docker. It will virtualize several Docker images, creating them in your new personal virtual machine. Dockerfile.
-Ft_transcendence - This project is about creating a website for the famous Pong game! Through this site, users will play Pong with others. It will provide a sleek user interface, a chat, and real-time multiplayer online games! React/Nestjs
+    Libft - The first C function library that students build from scratch. C
+    Get_Next_Line - A function to read lines from a file descriptor. C
+    Ft_printf - A simplified rewrite of the printf function. C
+    Netwhat - Introduction to networks, protocols, and how they operate.
+    So_long - This project is a small 2D game with minilibx. You will learn about textures, sprites, and tiles. C
+    Pipex - This project aims to deepen understanding of two concepts: redirections and pipes. C
+    Push_swap - This project involves sorting data on a stack, with a limited set of instructions, and the fewest moves. To achieve this, you'll need to manipulate various sorting algorithms and select the most suitable solution(s) for optimized data sorting.
+    Cub3D - A graphical project based on the Wolfenstein 3D game, using the miniLibX library. C
+    minishell - Building a simplified shell. C
+    Philosophers - A multithreading project focused on the classic dining philosophers problem. C
+    CPP Modules (00-08) - An introduction to programming in C++.
+    Ft_containers - Rewrite of the C++ Standard Template Library (STL) containers. C++
+    Ft_Irc - Create your own IRC server in C++, fully compatible with an official client. C++
+    Inception - This project aims to broaden knowledge in system administration using Docker. It will virtualize several Docker images, creating them in your new personal virtual machine. Dockerfile.
+    Ft_transcendence - This project is about creating a website for the famous Pong game! Through this site, users will play Pong with others. It will provide a sleek user interface, a chat, and real-time multiplayer online games! React/Nestjs
 
 🔗 Useful Links:
 
 
-LinkedIn: coming soon.
-Portfolio: under construction.
+    LinkedIn: coming soon.
+    Portfolio: under construction.
 
 💌 Contact Me:
 
-Always on the lookout for opportunities and open to collaborations, feel free to contact me for any professional exchange or if you have questions about my projects.
+    Always on the lookout for opportunities and open to collaborations, feel free to contact me for any professional exchange or if you have questions about my projects.
 
-Email: j.holl.nicaud@gmail.com
+    Email: j.holl.nicaud@gmail.com

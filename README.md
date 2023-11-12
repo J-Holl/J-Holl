@@ -2,7 +2,7 @@
 
 👋 Bonjour, je suis J. Holl.
 
-Étudiant passionné de l'école 42, j'ai complété le tronc commun et je suis fier de présenter ici l'ensemble de mes projets réalisés pendant cette période.
+Étudiant de l'école 42, j'ai complété le tronc commun et je suis fier de présenter ici l'ensemble de mes projets réalisés pendant cette période.
 Chaque projet m'a permis de consolider mes compétences en programmation dans des domaines differents.
 
 🚀 Mes compétences clés:
@@ -50,7 +50,7 @@ Toujours en quête d'opportunités et ouvert aux collaborations, n'hésitez pas 
 
 👋 Hello, I'm J. Holl.
 
-A passionate student from the 42 school, I've completed the core curriculum and I'm proud to showcase all my projects undertaken during this period here. Each project has allowed me to solidify my programming skills across different domains.
+A student from the 42 school, I've completed the core curriculum and I'm proud to showcase all my projects undertaken during this period here. Each project has allowed me to solidify my programming skills across different domains.
 
 🚀 Key Skills:
 
